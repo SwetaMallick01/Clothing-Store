@@ -1,4 +1,4 @@
-## **clothingstore**
+## **Clothingstore**
 Creating Interactive Dashboard of Clothing Store
 
 Objective
