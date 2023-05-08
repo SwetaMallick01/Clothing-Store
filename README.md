@@ -29,16 +29,17 @@ The owner of the Store wants us to create an interactive dashboard to track and 
 
 <img width="734" alt="Today" src="https://user-images.githubusercontent.com/132562651/236675459-be083dbc-250e-4925-b537-b6c960d75205.png">
 
-### **Project Insight**
+## **Project Insight**
 
-The store generates the maximum sells from Footwear, jewellery and indianwear categories.
+1. The store generates the maximum sells on Saturday, Sunday, Monday.
 
-The store generates the maximum sells from Vastranandan and Global Brands.
+2. The store generates the maximum sells from XL and 2XL SKUS.
 
-Vastranandan brand given the maximum discount.
+3. The store generates the maximum sells from Dark Blue	SKUs.
 
-### **Final Conclusion**
 
-The most of the products such as Footwear, jewellery and indianwear categories. To improve sales of the E-Commerce Store, the owner must show maximum ads, sale offers/coupons in these categories.
+## **Final Conclusion**
 
-The most of the products such as Vastranandan and Global Brands Brands. To improve sales of the E-Commerce Store, the owner must show maximum ads, sale offers/coupons in these Brands.
+1. The store generates the maximum sells on Saturday, Sunday, Monday. To improve sales of the E-Commerce Store, the owner must show maximum ads, sale offers/coupons in before these days. Typically Thursday and Friday.
+2. The store generates the maximum sells from XL and 2XL SKUS and Dark Blue	SKUs. To avoid the running out of stock, we should restock the same before/at fridays in the inventory.
+
