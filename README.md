@@ -1,7 +1,7 @@
 ## **Clothingstore**
 Creating Interactive Dashboard of Clothing Store
 
-### **Objective**
+### **Objective** 
 
 The owner of the Store wants us to create an interactive dashboard to track and analyze their online sales.
 
